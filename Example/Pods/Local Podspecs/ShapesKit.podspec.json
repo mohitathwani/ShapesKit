@@ -1,0 +1,22 @@
+{
+  "name": "ShapesKit",
+  "version": "0.1.0",
+  "summary": "A short description of ShapesKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mohit Athwani/ShapesKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mohit Athwani": "mohit@athwani.net"
+  },
+  "source": {
+    "git": "https://github.com/Mohit Athwani/ShapesKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ShapesKit/Classes/**/*"
+}
